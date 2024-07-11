@@ -1,0 +1,30 @@
+body{
+    background-color: #262626;
+}
+.image{
+   text-align: center;
+}
+.image img{
+    width:250px;
+    height:170px;
+    padding:10px;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    font-family: serif;
+    color: whitesmoke;
+    border-bottom: 2px solid whitesmoke;/*this works as horizontal line */
+    padding-bottom:10px;
+}
+h2{
+    color:whitesmoke;
+    font-family: serif;
+    padding-left:10px;
+}
+p{
+    font-family: Fraunces;
+    color:yellowgreen;
+    padding-left:10px;
+   
+}
